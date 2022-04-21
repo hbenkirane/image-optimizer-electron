@@ -1,4 +1,4 @@
-# ImageShrink
+# ImageOptimizer
 
 An Election Desktop App to optimize image files
 
